@@ -1,0 +1,29 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build folders
+dist/
+build/
+
+# OS files
+frontend/public/*.mp4
+
+# IDE files
+.vscode/
+.idea/
+
+# Models folder (if you want to ignore it)
+backend/models/
+
+# Uploads (if any)
+backend/.env
+frontend/.env
